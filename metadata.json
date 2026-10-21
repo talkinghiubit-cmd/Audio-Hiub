@@ -1,0 +1,6 @@
+{
+  "name": "Audio-Hub",
+  "description": "Professional audio restoration workstation with Smart D-Noise, Vocal ID by Frequencies, De-Hum, De-Clip, De-Click, Bandwidth Extender, multi-format conversion, and SynthID AI voice verification.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
